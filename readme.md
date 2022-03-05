@@ -1,4 +1,4 @@
-# chartjs-demo
+# asahi
 
 一个计算收入复合年增长并生成图表的网页，输入 json 数据并获得一个可共享的 url。
 
@@ -19,3 +19,9 @@
 生成的图标
 
 ![example](./src/assets/example.png)
+
+## FAQ
+
+### 名字怎么来的？
+
+取自 galgame 近月少女的礼仪中女主角的名字，吾辈很喜欢这个角色！
